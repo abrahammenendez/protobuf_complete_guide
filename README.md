@@ -1,6 +1,6 @@
 **What is this?**
 
-The complete webapp I made for Sergey Kargopolov's course [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/course/spring-boot-microservices-and-spring-cloud/).
+Some protos I coded for Stephane Maarek's course [Complete Guide to Protocol Buffers 3](https://www.udemy.com/course/protocol-buffers/).
 
 **What did I learn?**
 
