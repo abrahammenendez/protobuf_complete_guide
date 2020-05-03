@@ -6,7 +6,7 @@ Some protos I coded for Stephane Maarek's course [Complete Guide to Protocol Buf
 
 How to:
 - Write simple and complex protobufs
-- Use the protoc
+- Use protoc
 - Generate Java, JS, Python and Go code from profobufs
 - Evolve protobufs in a safe way
 - Use advanced data types (oneof, Duration, etc.)
