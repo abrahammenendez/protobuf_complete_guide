@@ -1,0 +1,65 @@
+
+u
+java:S1488Ó"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+Z
+java:S1854ž"CRemove this useless assignment to local variable "from_bitField0_".(ÆÓ¡€
+C
+java:S1199s"-Extract this nested code block into a method.(Ý…î½
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ýÿÿÿÿ
+m
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(óÝ…ïúÿÿÿÿ
+E
+java:S1125›")Remove the literal "false" boolean value.(•ë¸þÿÿÿÿÿ
+E
+java:S1125Ú")Remove the literal "false" boolean value.(¯€¢ýúÿÿÿÿ
+Z
+java:S1155¡">Use isEmpty() to check whether the collection is empty or not.(àðøüÿÿÿÿ
+C
+java:S1199n"-Extract this nested code block into a method.(­Ó–Ô
+J
+java:S1172	"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿ
+I
+java:S1199¼"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+z
+java:S4144Ž"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 885.(‘Ø‚
+q	java:S116ï"VRename this field "sampleList_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÂ†”þÿÿÿÿ
+e	java:S116Å"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñœã/
+K
+java:S1481ž"4Remove this unused "from_bitField0_" local variable.(ÆÓ¡€
+o	java:S116§"TRename this field "isSimple_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯»†£úÿÿÿÿ
+H
+java:S1199x"-Extract this nested code block into a method.(­ƒíéþÿÿÿÿ
+g	java:S117ž"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€
+>
+java:S1948Ë"'Make "name_" transient or serializable.(áè±Í
+E
+java:S1125µ")Remove the literal "false" boolean value.(•ë¸þÿÿÿÿÿ
+I
+java:S1199†"-Extract this nested code block into a method.(ì¼Â©ûÿÿÿÿ
+]
+java:S1126á"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+o
+java:S2975¬"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+H
+java:S1199~"-Extract this nested code block into a method.(ÙšÖ­ùÿÿÿÿ
+f	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß”â¢
+d	java:S116‰"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡Ñ÷
+I
+java:S1199“"-Extract this nested code block into a method.(Î—­Šþÿÿÿÿ
+?	java:S108ö")Either remove or fill this block of code.(º„ç½
+@
+java:S1940“")Use the opposite operator ("==") instead.(¦ÁÕ“
+o	java:S116Á"TRename this field "isSimple_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯»†£úÿÿÿÿ
+n
+java:S3077Ë"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(áè±Í
+d	java:S116·"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡Ñ÷
+I
+java:S1948ï"-Make "sampleList_" transient or serializable.(ëÂ†”þÿÿÿÿ
+D
+java:S1940")Use the opposite operator ("==") instead.(«‹¦œøÿÿÿÿ
+q	java:S116‘"VRename this field "sampleList_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üòÎôüÿÿÿÿ
+@
+java:S1940‰")Use the opposite operator ("==") instead.(×„ÎÃ
+f	java:S116Ë"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áè±Í
+k	java:S116‡"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä

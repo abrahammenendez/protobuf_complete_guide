@@ -1,0 +1,15 @@
+
+I
+java:S1481",Remove this unused "message" local variable.(«Œ¿¸8Öš°–œ.
+X
+java:S1854";Remove this useless assignment to local variable "message".(«Œ¿¸8Öš°–œ.
+S
+java:S1481"1Remove this unused "outputStream" local variable.(ÄÇõÿøÿÿÿÿ8îà°–œ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”á®öüÿÿÿÿ8Ô÷•œ.
+b
+java:S1854"@Remove this useless assignment to local variable "outputStream".(ÄÇõÿøÿÿÿÿ8îà°–œ.
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÄÇõÿøÿÿÿÿ8îà°–œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8îà°–œ.

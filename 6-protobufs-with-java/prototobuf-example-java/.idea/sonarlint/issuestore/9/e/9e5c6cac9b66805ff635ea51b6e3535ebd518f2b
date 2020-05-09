@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£öÅ¦ıÿÿÿÿ8»»¥—œ.
+{
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "message".(ÁŸ£N8˜Œõ–œ.
+Q
+java:S1128"4Remove this unused import 'example.complex.Complex'.(²É§8’ã —œ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ï“µªúÿÿÿÿ8¢×í–œ.

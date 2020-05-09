@@ -1,0 +1,13 @@
+
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ê½·—œ.
+U
+java:S1854"9Remove this useless assignment to local variable "other".(íØ‹8Ê½·—œ.
+F
+java:S1481"*Remove this unused "other" local variable.(íØ‹8Ê½·—œ.
+]
+java:S1128"@Remove this unused import 'example.simple.Simple.SimpleMessage'.(›‡ŞÏ8Ê½·—œ.
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8Ê½·—œ.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Ê½·—œ.
